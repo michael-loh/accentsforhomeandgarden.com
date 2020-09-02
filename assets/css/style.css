@@ -1,0 +1,104 @@
+.navbar{
+    background-color: darkseagreen;
+}
+
+.nav-tags{
+    color: black;
+    font-size: 20px;
+}
+
+.nav-tags:hover{
+    color: white;
+}
+
+.nav-tags-current{
+    font-size: 20px;
+    color: white;
+    text-decoration: underline;
+}
+
+#jtron{
+    background-image: url("assets/img/Garden.jpg")
+}
+
+.headline{
+    color: white;
+    font-family: 'Girassol', cursive;
+    font-size: 50px;
+}
+
+.summary{
+    color: white;
+    padding: 5px;
+    background-color: gray;
+    opacity: 90%;
+}
+
+.hot-items{
+    height: 300px;
+    width: 300px;
+}
+
+.hot-item-tag{
+    color: black;
+    font-size: 20px;
+}
+
+.hot-item-tag:hover{
+    color: cadetblue;
+}
+
+.ft{
+    background-color: darkslategray;
+}
+
+.ft-links{
+    color: lightgray
+}
+.ft-links:hover{
+    color: white
+}
+
+.diagonal-background{
+  background-color: aquamarine;
+  background-image: -webkit-linear-gradient(150deg, #8FBC8F 50%, #6495ED 50%);
+  min-height: 500px;
+}
+
+.info{
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+.category-pic{
+    height: 150px;
+    width:150px;
+}
+
+.category-tag{
+    font-size: 15px;
+    color: black;
+}
+
+.category-tag:hover{
+    color: cadetblue;
+}
+
+.product-title{
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+
+.product-desc{
+    font-size: 20px;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+#map{
+    height: 100%;
+}
